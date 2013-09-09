@@ -58,4 +58,4 @@ Knižka je stále tvoja, nemusíš ju nikam posielať. Pokiaľ sa jej však chce
 Sponzori
 --------
 
-[[statics/manning.gif]] [[statics/wrox.gif]]
+![Manning](statics/manning.gif) ![Wrox](statics/wrox.gif)
