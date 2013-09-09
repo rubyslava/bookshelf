@@ -1,4 +1,4 @@
-Rubyslava Knižnica -- *Distribuovaná knižnica priateľov Rubyslavy*
+Rubyslava Knižnica - *Distribuovaná knižnica priateľov Rubyslavy*
 ==================================================================
 
 Toto je zdielaná knižnica priateľov programátorských stretnutí Rubyslava v Bratislave. Dávame sem recenzie
@@ -18,7 +18,7 @@ Takže:
 Ako nájdem zaujímavú programátorskú knihu?
 ------------------------------------------
 
-Prečítaj si [recenzie](/reviews) od nás.
+Pozri si čo máme v [knižnici](/books.md) alebo si prečítaj [recenzie](/reviews) od nás.
 
 
 Ako si požičiam knižku od vás?
@@ -27,7 +27,7 @@ Ako si požičiam knižku od vás?
 Vytvor [issue](/issues) a napíš, ktorú knižku by si si chcel požičať.
 
 
-Zaujíma ma táto knižka, ale nemáte ju tu.
+Zaujíma ma knižka XYZ, ale nemáte ju tu.
 -----------------------------------------
 
 Vytvor [issue](/issues) a napíš, ktorá knižka nám tu chýba. Nejako to vybavíme.
@@ -39,16 +39,23 @@ Chcem zľavu.
 Na!
 
 * www.manning.com -36% na hocičo, promo kód `ug367`
-* www.wiley.com -40% na tlačené knihy, promo kód `WUG12`,
+* www.wiley.com -40% na tlačené knihy, promo kód `WUG12`
 
 
 Ako zaradím svoju knižku do zoznamu?
 ------------------------------------
 
 1. Forkni repo.
-2. Pridaj súbor pre svoju knižku.
+2. Pridaj do books.md svoju knižku.
 3. Pošli nám (pull request).
 
 alebo nám napíš na hello@rubyslava.sk.
 
 
+Knižka je stále tvoja, nemusíš ju nikam posielať. Pokiaľ sa jej však chceš zbaviť, možeš nám ju darovať.
+
+
+Sponzori
+--------
+
+[[statics/manning.gif]] [[statics/wrox.gif]]

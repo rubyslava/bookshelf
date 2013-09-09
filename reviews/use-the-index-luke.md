@@ -4,7 +4,7 @@
 @jsuchal
 --------
 
-**TLDR; Povinné čítanie pre každého databázistu, odporúčam.**
+**TL;DR Povinné čítanie pre každého databázistu, odporúčam.**
 
 Pre tradičného zástancu relačných databáz ako ja určite jeden z najlepších verejne dostupných zdrojov o optimalizácii SQL dopytov pomocou správneho indexovania. Doplnené fajn obrázkami a niekedy dokonca animáciami.
 
