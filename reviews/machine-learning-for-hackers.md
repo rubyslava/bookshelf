@@ -1,4 +1,4 @@
-[Machine Learning for Hackers](http://www.amazon.com/Machine-Learning-Hackers-Drew-Conway/dp/1449303714)
+[Machine Learning for Hackers](http://www.amazon.com/Machine-Learning-Hackers-Drew-Conway/dp/1449303714?tag=rubyslava-20)
 ========================================================================================================
 
 @jsuchal

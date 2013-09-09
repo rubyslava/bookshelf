@@ -1,4 +1,4 @@
-[CoffeeScript: Accelerated JavaScript Development](http://www.amazon.com/CoffeeScript-Accelerated-Development-Trevor-Burnham/dp/1934356786)
+[CoffeeScript: Accelerated JavaScript Development](http://www.amazon.com/CoffeeScript-Accelerated-Development-Trevor-Burnham/dp/1934356786?tag=rubyslava-20)
 =========================================================================================================================================
 
 @tkramar
