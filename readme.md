@@ -39,7 +39,7 @@ Chcem zľavu.
 Na!
 
 * www.manning.com -36% na hocičo, promo kód `ug367`
-* www.wiley.com -40% na tlačené knihy, promo kód `WUG12`
+* www.wiley.com -40% na tlačené knihy od Wrox9, promo kód `WUG12`
 
 
 Ako zaradím svoju knižku do zoznamu?
