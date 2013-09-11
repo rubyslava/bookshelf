@@ -16,5 +16,6 @@ Ak si chceš niektorú knižku požičať vytvor [issue](/issues) s jej menom.
 - Petr Paleta: [Co programátory ve škole neučí aneb Softwarové inženýrství v reálné praxi](http://knihy.cpress.cz/co-programatory-ve-skole-neuci.html) (@synopsitv)
 - Kent Beck: [Extrémní programování](http://www.martinus.sk/?uItem=11115) (@synopsitv)
 - Václav Kadlec: [Agilní programování, Metodiky efektivního vývoje softwaru](http://knihy.cpress.cz/agilni-programovani.html) (@synopsitv)
+- Steve Freeman, Nat Pryce: [Growing Object-Oriented Software, Guided by Tests](http://www.amazon.com/Growing-Object-Oriented-Software-Guided-Tests/dp/0321503627) (@synopsitv)
 
 Nenašiel si tu čo si hľadal? Vytvor [issue](/issues) alebo nám napíš na hello@rubyslava.sk
