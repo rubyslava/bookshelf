@@ -11,6 +11,10 @@ Ak si chceš niektorú knižku požičať vytvor [issue](/issues) s jej menom.
 - Drew Neil: [Practical Vim: Edit Text at the Speed of Thought](http://www.amazon.com/Practical-Vim-Thought-Pragmatic-Programmers/dp/1934356980?tag=rubyslava-20) (@tkramar)
 - Markus Winand: [SQL Performance Explained](http://www.amazon.com/SQL-Performance-Explained-Markus-Winand/dp/3950307826?tag=rubyslava-20) (@tkramar)
 - Avdi Grimm: [Objects on Rails](http://objectsonrails.com/) (@tkramar)
-
+- Kenneth McDonald, Daryl Harms: [Začínáme programovat v jazyce Python](http://knihy.cpress.cz/zaciname-programovat-v-jazyce-python-d2.html) (@synopsitv)
+- Baron Schwartz, Peter Zaitsev, Vadim Tkachenko, Jeremy D. Zawodny, Arjen Lentz a Derek J. Balling: [MySQL profesionálně - Optimalizace pro vysoký výkon](http://www.zonerpress.cz/mysql-profesionalne-optimalizace-pro-vysoky-vykon) (@synopsitv)
+- Petr Paleta: [Co programátory ve škole neučí aneb Softwarové inženýrství v reálné praxi](http://knihy.cpress.cz/co-programatory-ve-skole-neuci.html) (@synopsitv)
+- Kent Beck: [Extrémní programování](http://www.martinus.sk/?uItem=11115) (@synopsitv)
+- Václav Kadlec: [Agilní programování, Metodiky efektivního vývoje softwaru](http://knihy.cpress.cz/agilni-programovani.html) (@synopsitv)
 
 Nenašiel si tu čo si hľadal? Vytvor [issue](/issues) alebo nám napíš na hello@rubyslava.sk
