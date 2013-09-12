@@ -38,7 +38,7 @@ Chcem zľavu.
 
 Na!
 
-* www.oreilly.com -50 na e-knihy, promo kód `DSUG`, -40% na tlačené knihy, promo kód `OR112`,
+* www.oreilly.com -50% na e-knihy, promo kód `DSUG`, -40% na tlačené knihy, promo kód `OR112`,
 * www.manning.com -36% na hocičo, promo kód `ug367`
 * www.wiley.com -40% na tlačené knihy od Wrox, promo kód `WUG12`
 * www.apress.com -30% na všetko, promo kód `UGTR13`
