@@ -59,7 +59,7 @@ Knižka je stále tvoja, nemusíš ju nikam posielať. Pokiaľ sa jej však chce
 Sponzori
 --------
 
-![O'Reilly](statics/oreilly.png)
+![O'Reilly](statics/oreilly.gif)
 ![Manning](statics/manning.jpg) 
 ![Wrox](statics/wrox.gif) 
 ![Apress](statics/apress.gif)
