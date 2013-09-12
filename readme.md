@@ -3,7 +3,7 @@ Rubyslava Knižnica - *Distribuovaná knižnica priateľov Rubyslavy*
 
 Toto je zdielaná knižnica priateľov programátorských stretnutí Rubyslava v Bratislave. Dávame sem recenzie
 na programátorské knižky, ktoré stoja za to a požičiavame si ich navzájom za pivo. Taktiež máme neskutočné
-zľavy vďaka spolupráci s vydavateľstvami. Čo sú to neskutočné zľavy? Napríklad 40%. Málo? Čo takto úplne zadarmo?
+zľavy vďaka spolupráci s vydavateľstvami. Čo sú to neskutočné zľavy? Napríklad 50%. Málo? Čo takto úplne zadarmo?
 Ok, ak napíšeš recenziu.
 
 Takže:
@@ -38,6 +38,7 @@ Chcem zľavu.
 
 Na!
 
+* www.oreilly.com -50 na e-knihy, promo kód `DSUG`, -40% na tlačené knihy, promo kód `OR112`,
 * www.manning.com -36% na hocičo, promo kód `ug367`
 * www.wiley.com -40% na tlačené knihy od Wrox, promo kód `WUG12`
 * www.apress.com -30% na všetko, promo kód `UGTR13`
@@ -58,6 +59,7 @@ Knižka je stále tvoja, nemusíš ju nikam posielať. Pokiaľ sa jej však chce
 Sponzori
 --------
 
+![O'Reilly](statics/oreilly.png)
 ![Manning](statics/manning.jpg) 
 ![Wrox](statics/wrox.gif) 
 ![Apress](statics/apress.gif)
