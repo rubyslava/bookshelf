@@ -1,7 +1,7 @@
 Knihy v knižnici Rubyslava
 ==========================
 
-Ak si chceš niektorú knižku požičať vytvor [issue](/issues) s jej menom.
+Ak si chceš niektorú knižku požičať vytvor [issue](https://github.com/rubyslava/bookshelf/issues) s jej menom.
 
 
 - Robert C. Martin: [Clean Code: A Handbook of Agile Software Craftsmanship](http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882?tag=rubyslava-20) (@jsuchal)
@@ -18,4 +18,4 @@ Ak si chceš niektorú knižku požičať vytvor [issue](/issues) s jej menom.
 - Václav Kadlec: [Agilní programování, Metodiky efektivního vývoje softwaru](http://knihy.cpress.cz/agilni-programovani.html) (@synopsitv)
 - Steve Freeman, Nat Pryce: [Growing Object-Oriented Software, Guided by Tests](http://www.amazon.com/Growing-Object-Oriented-Software-Guided-Tests/dp/0321503627) (@synopsitv)
 
-Nenašiel si tu čo si hľadal? Vytvor [issue](/issues) alebo nám napíš na hello@rubyslava.sk
+Nenašiel si tu čo si hľadal? Vytvor [issue](https://github.com/rubyslava/bookshelf/issues) alebo nám napíš na hello@rubyslava.sk
