@@ -12,7 +12,7 @@ Takže:
 * Chceš si požičať programátorskú knihu? Tiež si tu správne.
 * Chceš niekomu za pivo požičat svoju knihu? Si tu úplne správne.
 * Chceš zľavu alebo knižku zadarmo, ktorú tu nevidíš? Vybavíme.
-* Chceš sa s nami stretnúť pri pive? Príď na najbližšiu [Rubyslavu](www.rubyslava.sk).
+* Chceš sa s nami stretnúť pri pive? Príď na najbližšiu [Rubyslavu](http://www.rubyslava.sk).
 
 
 Ako nájdem zaujímavú programátorskú knihu?
@@ -24,13 +24,13 @@ Pozri si čo máme v [knižnici](/books.md) alebo si prečítaj [recenzie](/revi
 Ako si požičiam knižku od vás?
 ------------------------------
 
-Vytvor [issue](/issues) a napíš, ktorú knižku by si si chcel požičať.
+Vytvor [issue](https://github.com/rubyslava/bookshelf/issues) a napíš, ktorú knižku by si si chcel požičať.
 
 
 Zaujíma ma knižka XYZ, ale nemáte ju tu.
 -----------------------------------------
 
-Vytvor [issue](/issues) a napíš, ktorá knižka nám tu chýba. Nejako to vybavíme.
+Vytvor [issue](https://github.com/rubyslava/bookshelf/issues) a napíš, ktorá knižka nám tu chýba. Nejako to vybavíme.
 
 
 Chcem zľavu.
@@ -59,7 +59,10 @@ Knižka je stále tvoja, nemusíš ju nikam posielať. Pokiaľ sa jej však chce
 Sponzori
 --------
 
-![O'Reilly](statics/oreilly.gif)
-![Manning](statics/manning.jpg) 
-![Wrox](statics/wrox.gif) 
-![Apress](statics/apress.gif)
+![O'Reilly](static/oreilly.gif)
+
+![Manning](static/manning.jpg) 
+
+![Wrox](static/wrox.gif) 
+
+![Apress](static/apress.gif)
