@@ -1,5 +1,5 @@
-Rubyslava Knižnica - *Distribuovaná knižnica priateľov Rubyslavy*
-==================================================================
+Distribuovaná knižnica priateľov Rubyslavy
+==========================================
 
 Toto je zdielaná knižnica priateľov programátorských stretnutí Rubyslava v Bratislave. Dávame sem recenzie
 na programátorské knižky, ktoré stoja za to a požičiavame si ich navzájom za pivo. Taktiež máme neskutočné
