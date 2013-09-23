@@ -17,5 +17,11 @@ Ak si chceš niektorú knižku požičať vytvor [issue](https://github.com/ruby
 - Kent Beck: [Extrémní programování](http://www.martinus.sk/?uItem=11115) (@synopsitv)
 - Václav Kadlec: [Agilní programování, Metodiky efektivního vývoje softwaru](http://knihy.cpress.cz/agilni-programovani.html) (@synopsitv)
 - Steve Freeman, Nat Pryce: [Growing Object-Oriented Software, Guided by Tests](http://www.amazon.com/Growing-Object-Oriented-Software-Guided-Tests/dp/0321503627?tag=rubyslava0f-20) (@synopsitv)
+- Michael Fogus, Chris Houser: [The Joy of Clojure, Second Edition](http://www.manning.com/fogus2/) (@rubyslava)
+- DJ Patil: [Building Data Science Teams](http://www.amazon.com/Building-Data-Science-Teams-ebook/dp/B005O4U3ZE?tag=rubyslava0f-20) (@rubyslava)
+- Ohad Samet: [Introduction to Online Payments Risk Management](http://www.amazon.com/Introduction-Online-Payments-Management-ebook/dp/B00D9AR4MK/?tag=rubyslava0f-20) (@rubyslava)
+- [Big Data Now: 2012 Edition](http://www.amazon.com/Big-Data-Now-Edition-ebook/dp/B0097E4EBQ/?tag=rubyslava0f-20) (@rubyslava)
+- Chad Fowler: [Rails Recipes: Rails 3 Edition](http://www.amazon.com/Rails-Recipes-3-Chad-Fowler/dp/1934356778/?tag=rubyslava0f-20) (@rubyslava)
+- Bruce Williams, John Athayde: [The Rails View: Create a Beautiful and Maintainable User Experience](http://www.amazon.com/Rails-View-Beautiful-Maintainable-Experience/dp/1934356875/?tag=rubyslava0f-20) (@rubyslava)
 
 Nenašiel si tu čo si hľadal? Vytvor [issue](https://github.com/rubyslava/bookshelf/issues) alebo nám napíš na hello@rubyslava.sk
