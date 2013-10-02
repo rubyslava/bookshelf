@@ -20,6 +20,7 @@ Ak si chceš niektorú knižku požičať vytvor [issue](https://github.com/ruby
 - Chad Fowler: [Rails Recipes: Rails 3 Edition](http://www.amazon.com/Rails-Recipes-3-Chad-Fowler/dp/1934356778/?tag=rubyslava0f-20) (@rubyslava)
 - Bruce Williams, John Athayde: [The Rails View: Create a Beautiful and Maintainable User Experience](http://www.amazon.com/Rails-View-Beautiful-Maintainable-Experience/dp/1934356875/?tag=rubyslava0f-20) (@rubyslava)
 - Richard Cotton: [Learning R](http://www.amazon.com/Learning-R-Richard-Cotton/dp/1449357105?tag=rubyslava0f-20) (@rubyslava)
+- Brad Green, Shyam Seshadri: [AngularJS](http://www.amazon.com/AngularJS-Brad-Green/dp/1449344852?tag=rubyslava0f-20) (@kajomarton)
 
 
 Nenašiel si tu čo si hľadal? Vytvor [issue](https://github.com/rubyslava/bookshelf/issues) alebo nám napíš na hello@rubyslava.sk
