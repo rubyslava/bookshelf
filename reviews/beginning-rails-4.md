@@ -1,4 +1,4 @@
-[Begginng Rails 4](http://www.amazon.com/Beginning-Rails-4-Adam-Gamble/dp/1430260343?tag=rubyslava0f-20)
+[Beginning Rails 4](http://www.amazon.com/Beginning-Rails-4-Adam-Gamble/dp/1430260343?tag=rubyslava0f-20)
 ============================================
 
 @Jocinka
