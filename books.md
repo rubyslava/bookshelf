@@ -9,6 +9,7 @@ Ak si chceš niektorú knižku požičať vytvor [issue](https://github.com/ruby
 
 2013
 ----
+- Chris Kemp: [Professional Heroku Programming](http://www.amazon.com/Professional-Heroku-Programming-Wrox-Programmer/dp/1118508998?tag=rubyslava0f-20) (@rubyslava)
 - Ohad Samet: [Introduction to Online Payments Risk Management](http://www.amazon.com/Introduction-Online-Payments-Management-ebook/dp/B00D9AR4MK/?tag=rubyslava0f-20) (@rubyslava)
 - Richard Cotton: [Learning R](http://www.amazon.com/Learning-R-Richard-Cotton/dp/1449357105?tag=rubyslava0f-20) (@rubyslava)
 - Brad Green, Shyam Seshadri: [AngularJS](http://www.amazon.com/AngularJS-Brad-Green/dp/1449344852?tag=rubyslava0f-20) (@kajomarton)
@@ -17,6 +18,7 @@ Ak si chceš niektorú knižku požičať vytvor [issue](https://github.com/ruby
 
 2012
 ----
+- Peter Smith: [Professional Website Performance: Optimizing the Front-End and Back-End](http://www.amazon.com/Professional-Website-Performance-Optimizing-Front-End/dp/1118487524?tag=rubyslava0f-20) (@rubyslava)
 - Markus Winand: [SQL Performance Explained](http://www.amazon.com/SQL-Performance-Explained-Markus-Winand/dp/3950307826?tag=rubyslava0f-20) (@tkramar)
 - Avdi Grimm: [Objects on Rails](http://objectsonrails.com/) (@tkramar)
 - [Big Data Now: 2012 Edition](http://www.amazon.com/Big-Data-Now-Edition-ebook/dp/B0097E4EBQ/?tag=rubyslava0f-20) (@rubyslava)
