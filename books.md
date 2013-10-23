@@ -42,6 +42,10 @@ Ak si chceš niektorú knižku požičať vytvor [issue](https://github.com/ruby
 ----
 - Robert C. Martin: [Clean Code: A Handbook of Agile Software Craftsmanship](http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882?tag=rubyslava0f-20) (@jsuchal)
 
+2007
+----
+- Steve Krug: [Webdesign: Nenuťte uživatele přemýšlet! (2nd edition)](http://www.martinus.sk/?uItem=31983) (@teo_sk)
+
 2004
 ----
 - Michael Feathers: [Working Effectively with Legacy Code](http://www.amazon.com/Working-Effectively-Legacy-Michael-Feathers/dp/0131177052?tag=rubyslava0f-20) (@jsuchal)
