@@ -1,4 +1,4 @@
-[Rails Recepies](http://pragprog.com/book/rr2/rails-recipes)
+[Rails Recipes](http://pragprog.com/book/rr2/rails-recipes)
 ============================================================
 
 @tomaj
