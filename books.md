@@ -9,6 +9,8 @@ Ak si chceš niektorú knižku požičať vytvor [issue](https://github.com/ruby
 
 2013
 ----
+- Sam Ruby, Dave Thomas, David Heinemeier Hansson: [Agile Web Development with Rails 4](http://www.amazon.com/Agile-Development-Rails-Facets-Ruby/dp/1937785564?tag=rubyslava0f-20) (@rubyslava)
+- Cathy O'Neil, Rachel Schutt: [Doing Data Science](http://www.amazon.com/Doing-Data-Science-Straight-Frontline-ebook/dp/B00FRSNHDC?tag=rubyslava0f-20) (@rubyslava)
 - Chris Kemp: [Professional Heroku Programming](http://www.amazon.com/Professional-Heroku-Programming-Wrox-Programmer/dp/1118508998?tag=rubyslava0f-20) (@rubyslava)
 - Ohad Samet: [Introduction to Online Payments Risk Management](http://www.amazon.com/Introduction-Online-Payments-Management-ebook/dp/B00D9AR4MK/?tag=rubyslava0f-20) (@rubyslava)
 - Richard Cotton: [Learning R](http://www.amazon.com/Learning-R-Richard-Cotton/dp/1449357105?tag=rubyslava0f-20) (@rubyslava)
