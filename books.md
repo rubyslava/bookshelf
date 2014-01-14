@@ -31,7 +31,7 @@ Ak si chceš niektorú knižku požičať vytvor [issue](https://github.com/ruby
 2011
 ----
 - DJ Patil: [Building Data Science Teams](http://www.amazon.com/Building-Data-Science-Teams-ebook/dp/B005O4U3ZE?tag=rubyslava0f-20) (@rubyslava)
-
+- Walter Isaacson: [Steve Jobs](http://www.martinus.sk/?uItem=111218) (@michalbystricky)
 
 2010
 ----
@@ -45,10 +45,12 @@ Ak si chceš niektorú knižku požičať vytvor [issue](https://github.com/ruby
 2008
 ----
 - Robert C. Martin: [Clean Code: A Handbook of Agile Software Craftsmanship](http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882?tag=rubyslava0f-20) (@jsuchal)
+- Lukáš Jelínek: [Jádro systému Linux](http://knihy.cpress.cz/jadro-systemu-linux.html) (@michalbystricky)
 
 2007
 ----
 - Steve Krug: [Webdesign: Nenuťte uživatele přemýšlet! (2nd edition)](http://www.martinus.sk/?uItem=31983) (@teo_sk)
+- Steve Wozniak, Gina Smith: [iWoz](http://www.martinus.sk/?uItem=43968) (@michalbystricky)
 
 2004
 ----
