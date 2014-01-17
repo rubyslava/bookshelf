@@ -9,6 +9,7 @@ Ak si chceš niektorú knižku požičať vytvor [issue](https://github.com/ruby
 
 2013
 ----
+- José Valim: [Crafting Rails 4 Applications: Expert Practices for Everyday Rails Development](http://www.amazon.com/Crafting-Rails-Applications-Practices-Development/dp/1937785556?tag=rubyslava0f-20) (@rubyslava)
 - Sam Ruby, Dave Thomas, David Heinemeier Hansson: [Agile Web Development with Rails 4](http://www.amazon.com/Agile-Development-Rails-Facets-Ruby/dp/1937785564?tag=rubyslava0f-20) (@rubyslava)
 - Cathy O'Neil, Rachel Schutt: [Doing Data Science](http://www.amazon.com/Doing-Data-Science-Straight-Frontline-ebook/dp/B00FRSNHDC?tag=rubyslava0f-20) (@rubyslava)
 - Chris Kemp: [Professional Heroku Programming](http://www.amazon.com/Professional-Heroku-Programming-Wrox-Programmer/dp/1118508998?tag=rubyslava0f-20) (@rubyslava)
