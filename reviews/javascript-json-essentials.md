@@ -37,19 +37,8 @@ Chapters 4 and 5 are the core of the book, as they covers practical
 The last chapters describes some sample carousel application using JSON
 and tools for debugging JSON. 
 
-
 ### Target audience 
-
 
 This book can be a good read for a reader who has some basic
 knowledge about `JSON` and `javascript` and is looking for a short
 hands-on guide with practical code snippets with `JSON` usage. 
-
-
-
-
-
-
-
-
-
