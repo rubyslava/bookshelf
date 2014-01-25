@@ -17,6 +17,7 @@ Ak si chceš niektorú knižku požičať vytvor [issue](https://github.com/ruby
 - Richard Cotton: [Learning R](http://www.amazon.com/Learning-R-Richard-Cotton/dp/1449357105?tag=rubyslava0f-20) (@rubyslava)
 - Brad Green, Shyam Seshadri: [AngularJS](http://www.amazon.com/AngularJS-Brad-Green/dp/1449344852?tag=rubyslava0f-20) (@kajomarton)
 - Leonard Richardson, Mike Amundsen, Sam Ruby: [RESTful Web APIs](http://www.amazon.com/RESTful-Web-APIs-Leonard-Richardson/dp/1449358063?tag=rubyslava0f-20) (@rubyslava)
+- Sai Srinivas Sriparasa: [JavaScript and JSON Essentials](http://www.packtpub.com/javascript-and-json-essentials/book) (@marekrohon)
 
 
 2012
