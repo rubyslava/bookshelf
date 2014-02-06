@@ -35,15 +35,10 @@ V niektorých receptoch sa používali externé gemy (napríklad pre renderovani
 
 **TL;DR Kniha užitočných 70 návodov riešiacich reálne problémy skutočných aplikácii. Veľmi vhodné pre začínajúcich ako aj pokročilých RoR programátorov.**
 
-Na úvod je potrebné povedať, že autor v knihe očakáva od čitateľa aspoň základné vedomosti o Ruby a Rails. Nie sú tu v podstate
-vôbec vysvetlené základy Rails. Autor očakáva, že čitateľ vie ako fungujú napr. blocks v ruby a podobne. V prípade začínajúcich
-RoR programátorov by som najprv zvolil niečo ako Beginning Rails/Ruby a podobne. Ak niekto základy Rails ovláda, smelo do tejto knihy.
+Na úvod je potrebné povedať, že autor v knihe očakáva od čitateľa aspoň základné vedomosti o Ruby a Rails. Nie sú tu v podstate vôbec vysvetlené základy Rails. Autor očakáva, že čitateľ vie ako fungujú napr. blocks v ruby a podobne. V prípade začínajúcich RoR programátorov by som najprv zvolil niečo ako Beginning Rails/Ruby a podobne. Ak niekto základy Rails ovláda, smelo do tejto knihy.
 
 Jednotlivé návody sú pomerne krátke (v priemere tak tri-štyri strany, zopár aj na jednu). Každý z nich začína stručným
-opisom problému. Oceňujem, že autor na viacerých miestach naznačuje riešenie krátkym úryvkom kódu a potom vo viacerých krokoch
-iteruje k riešeniu, pričom postupne vysvetluje, prečo tak postupovať. O návodoch sa dá povedať, že sú napísané veľmi zrozumiteľne.
-Úryvky kódov su dobre vysvetlené a prehladné. Páčilo sa mi, že nejde o akademické ukážky, ani žiadne uletené teoretické príklady.
-Všetko veci, s ktorými sa dá bežne stretnúť. Pri samotných návodoch som nemal pocit, že význam je ukrytý niekde medzi riadkami. Stručné a prehľadné.
+opisom problému. Oceňujem, že autor na viacerých miestach naznačuje riešenie krátkym úryvkom kódu a potom vo viacerých krokoch iteruje k riešeniu, pričom postupne vysvetluje, prečo tak postupovať. O návodoch sa dá povedať, že sú napísané veľmi zrozumiteľne. Úryvky kódov su dobre vysvetlené a prehladné. Páčilo sa mi, že nejde o akademické ukážky, ani žiadne uletené teoretické príklady. Všetko veci, s ktorými sa dá bežne stretnúť. Pri samotných návodoch som nemal pocit, že význam je ukrytý niekde medzi riadkami. Stručné a prehľadné.
 
 Návody nie sú usporiadané podľa obtiažnosti, ale to ucelených tematických celkov. Ich náročnosť je rôznorodá. Jednotlivé témy sú:
 
@@ -56,10 +51,7 @@ Návody nie sú usporiadané podľa obtiažnosti, ale to ucelených tematických
 7. Extending Rails
 
 Takéto rozdelenie považujem za pomerne vhodné. Skusený programátor sa môže zamerať na oblasť, ktorá ho zaujíma. Ten, kto s
-Rails začína, si asi aj tak prečíta všetko a v tom prípade je opäť vhodné mať príbuzné problémy pokope, aby z toho nebol nezmyselný guláš.
-S viacerými z týchto návodov som sa už v praxi stretol, niektoré takéto postupy som už videl aj inde (niektoré som hneď identifikoval a
-pamätal si napríklad z [Beginning Rails](http://www.apress.com/9781430224334), [Railscasts](http://railscasts.com/),
-atď.). Pre mňa osobne to len potvrdzuje, že autor nie je jediný, kto by tak postupoval a nečítam tým pádom blbosti.
+Rails začína, si asi aj tak prečíta všetko a v tom prípade je opäť vhodné mať príbuzné problémy pokope, aby z toho nebol nezmyselný guláš. S viacerými z týchto návodov som sa už v praxi stretol, niektoré takéto postupy som už videl aj inde (niektoré som hneď identifikoval a pamätal si napríklad z [Beginning Rails](http://www.apress.com/9781430224334), [Railscasts](http://railscasts.com/), atď.). Pre mňa osobne to len potvrdzuje, že autor nie je jediný, kto by tak postupoval a nečítam tým pádom blbosti.
 
 Kniha sa čítala pomerne ľahko, problémy sú v podstate lahko pamäteľné a zrozumiteľné, a tak ak človek na niektorí z nich
 opäť v praxi narazí, vie kam sa môže obrátiť. Ak s Rails začínate, určite sa na túto knihu pozrite.
