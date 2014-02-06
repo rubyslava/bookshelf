@@ -53,5 +53,4 @@ Návody nie sú usporiadané podľa obtiažnosti, ale to ucelených tematických
 Takéto rozdelenie považujem za pomerne vhodné. Skusený programátor sa môže zamerať na oblasť, ktorá ho zaujíma. Ten, kto s
 Rails začína, si asi aj tak prečíta všetko a v tom prípade je opäť vhodné mať príbuzné problémy pokope, aby z toho nebol nezmyselný guláš. S viacerými z týchto návodov som sa už v praxi stretol, niektoré takéto postupy som už videl aj inde (niektoré som hneď identifikoval a pamätal si napríklad z [Beginning Rails](http://www.apress.com/9781430224334), [Railscasts](http://railscasts.com/), atď.). Pre mňa osobne to len potvrdzuje, že autor nie je jediný, kto by tak postupoval a nečítam tým pádom blbosti.
 
-Kniha sa čítala pomerne ľahko, problémy sú v podstate lahko pamäteľné a zrozumiteľné, a tak ak človek na niektorí z nich
-opäť v praxi narazí, vie kam sa môže obrátiť. Ak s Rails začínate, určite sa na túto knihu pozrite.
+Kniha sa čítala pomerne ľahko, problémy sú v podstate lahko pamäteľné a zrozumiteľné, a tak ak človek na niektorí z nich opäť v praxi narazí, vie kam sa môže obrátiť. Ak s Rails začínate, určite sa na túto knihu pozrite.
