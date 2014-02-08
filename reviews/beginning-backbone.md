@@ -1,4 +1,4 @@
-[http://www.amazon.com/Beginning-Backbone-js-James-Sugrue/dp/1430263342](http://www.amazon.com/Beginning-Backbone-js-James-Sugrue/dp/1430263342?tag=rubyslava-20)
+[Beginning Backbone.js](http://www.amazon.com/Beginning-Backbone-js-James-Sugrue/dp/1430263342?tag=rubyslava-20)
 ============================================
 
 @msgre
