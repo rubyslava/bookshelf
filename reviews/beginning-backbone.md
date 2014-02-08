@@ -1,36 +1,8 @@
-### Česká verze
+[http://www.amazon.com/Beginning-Backbone-js-James-Sugrue/dp/1430263342](http://www.amazon.com/Beginning-Backbone-js-James-Sugrue/dp/1430263342?tag=rubyslava-20)
+============================================
 
-**Kdyby byl obsah poloviční, název *Beginning Backbone.js* by seděl a knize bych
-dal čtyři hvězdy z pěti. Stala by se z ní užitečná příručka pro všechny kdo
-chtějí knihovnu [Backbone.js][1] začít používat.**
-
-Autor ale téma pojmul příliš zeširoka a napsal něco, co by se mělo jmenovat spíš
-*Beginning Backbone.js and Javascript testing and Grunt and Object oriented
-Javascript and many many more*.
-
-Kapitoly 3-5 jsou fajn (*Backbone Models and Collections*, *Backbone View and
-Templating Libraries*, *Routers and Events*). Ve srovnání s [oficiální dokumentací][1]
-jsou šťavnatější a líp strukturované. V praxi se sice budete vracet spíš na
-web projektu, ale pro úvodní vhled do jednotlivých mechanismů kniha
-poslouží lépe.
-V kapitole 6 (*From Start to Finish: A Complete App Example*) uvidíte první reálnější
-kód na příkladu Twitter klienta. Autor se pak k ukázce vrací i v kapitole 10
-(*Extending Backbone with Marionette and Thorax*), kde ukazuje alternativní řešení
-s pomocí rozšíření [Marionette.js][2] a [Thorax][3]. Škoda jen že jejich sílu demonstruje
-na malých částech aplikace. Lepší by bylo, kdyby obě nadstavby představil v
-samostatných kapitolách, pěkně od začátku.
-*Best Practices with Backbone* popsané v kapitole 11 by pak mohly být pěknou tečkou
-užitečné knihy.
-
-Realita je ale bohužel jiná, druhá polovina obsahu je balast. Chvílemi jsem měl
-pocit že se autor zavázal napsat dílo o 300 stranách, tak do něj nacpal vše co
-jen trochu souvisí s Backbone.js. Ne že by informace o Gruntu, objektovém
-modelu Javascriptu nebo testování nebyly užitečné. V každé z kapitol jsem se
-dozvěděl něco nového. Jejich hlavní poselství a tipy by ale šly zestručnit do
-jednoho až dvou odstavců *Best practices*.
-**Právě kvůli nepřesvědčivé druhé polovině knihy jí dávám tři hvězdy z pěti.**
-
-### English version
+@msgre
+------
 
 **If the content of the book had been reduced by half, the name
 *Begining Backbone.js* would have fit perfectly and I would have given
@@ -68,6 +40,38 @@ information and tips contained in them could be easily summarized into
 one or two paragraphs titled *Best practices*.
 **Just because of unconvincing second half of the book I give it three
 stars out of five.**
+
+### Česká verzia
+
+**Kdyby byl obsah poloviční, název *Beginning Backbone.js* by seděl a knize bych
+dal čtyři hvězdy z pěti. Stala by se z ní užitečná příručka pro všechny kdo
+chtějí knihovnu [Backbone.js][1] začít používat.**
+
+Autor ale téma pojmul příliš zeširoka a napsal něco, co by se mělo jmenovat spíš
+*Beginning Backbone.js and Javascript testing and Grunt and Object oriented
+Javascript and many many more*.
+
+Kapitoly 3-5 jsou fajn (*Backbone Models and Collections*, *Backbone View and
+Templating Libraries*, *Routers and Events*). Ve srovnání s [oficiální dokumentací][1]
+jsou šťavnatější a líp strukturované. V praxi se sice budete vracet spíš na
+web projektu, ale pro úvodní vhled do jednotlivých mechanismů kniha
+poslouží lépe.
+V kapitole 6 (*From Start to Finish: A Complete App Example*) uvidíte první reálnější
+kód na příkladu Twitter klienta. Autor se pak k ukázce vrací i v kapitole 10
+(*Extending Backbone with Marionette and Thorax*), kde ukazuje alternativní řešení
+s pomocí rozšíření [Marionette.js][2] a [Thorax][3]. Škoda jen že jejich sílu demonstruje
+na malých částech aplikace. Lepší by bylo, kdyby obě nadstavby představil v
+samostatných kapitolách, pěkně od začátku.
+*Best Practices with Backbone* popsané v kapitole 11 by pak mohly být pěknou tečkou
+užitečné knihy.
+
+Realita je ale bohužel jiná, druhá polovina obsahu je balast. Chvílemi jsem měl
+pocit že se autor zavázal napsat dílo o 300 stranách, tak do něj nacpal vše co
+jen trochu souvisí s Backbone.js. Ne že by informace o Gruntu, objektovém
+modelu Javascriptu nebo testování nebyly užitečné. V každé z kapitol jsem se
+dozvěděl něco nového. Jejich hlavní poselství a tipy by ale šly zestručnit do
+jednoho až dvou odstavců *Best practices*.
+**Právě kvůli nepřesvědčivé druhé polovině knihy jí dávám tři hvězdy z pěti.**
 
 [1]: http://backbonejs.org/
 [2]: http://marionettejs.com/
