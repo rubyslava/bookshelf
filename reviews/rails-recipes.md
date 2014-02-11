@@ -73,7 +73,7 @@ Recipes are not ordered according to their difficulty, rather than that they are
 
 I consider such division as appropriate. Intermediate programmer can focus his or her attention to topic, which is interesting for him or her. Someone, who begins with ruby will probably read everything anyway and in this case it is also good to have similar recipes grouped together to avoid mess. I have seen some of recipes in real applications, some of them on several other places (I was able to identify some of them and remember them from [Beginning Rails](http://www.apress.com/9781430224334), [Railscasts](http://railscasts.com/), etc.). For me personally this means, that author is not the only one who chooses such solution of the problem and I have not read some nonsense.
 
-Book was not hard reading, recipes can be basically easily remembered and are really clear. If oyu see some of them again in real application, you will know where you can return to seek solution. If you are Rails beginner, be sure to read this book.
+Book was not hard reading, recipes can be basically easily remembered and are really clear. If you see some of them again in real application, you will know where you can return to seek solution. If you are Rails beginner, be sure to read this book.
 
 
 
