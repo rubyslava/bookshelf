@@ -26,9 +26,9 @@ This book was for me an introduction to the world of nosql databases nevertheles
 
 Book is divided into 3 parts which consist of 12 chapters: 
 
-1. MongoDB basics (5 kapitol)
-2. Developing with MongoDB (3 kapitoly)
-3. Advanced MongoDB with Big Data (4 kapitoly)
+1. MongoDB basics (5 chapters)
+2. Developing with MongoDB (3 chapters)
+3. Advanced MongoDB with Big Data (4 chapters)
 
 The first part of the book introduces the features and terminology used with MongoDB. Authors mention indexes, geospacial indexes, binary data storing, map/reduce functions, etc. All features are discussed in more detail in the following chapters. While in the first part MongoDB shell is used for example demonstrations, in the second part we can read about PHP and Pythond drivers. The third part of the book discusses database administration, backup, optimization, replication and sharding.
 
