@@ -1,4 +1,4 @@
-[The Definitive Guide to MongoDB, 2nd edition](http://www.amazon.com/MongoDB-Definitive-Guide-Kristina-Chodorow-ebook/dp/B00CPSIQ7O?tag=rubyslava0f-20)
+[The Definitive Guide to MongoDB, 2nd edition](http://www.amazon.com/The-Definitive-Guide-MongoDB-complete/dp/1430258217?tag=rubyslava0f-20)
 ====================================================================================
 
 @1azyman
