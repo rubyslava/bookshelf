@@ -4,7 +4,7 @@
 @sevo_jakub
 -----------
 
-**TL;DR A must-read for every CS student and everyone who want to make something out of his data.**
+**TL;DR A must-read for every CS student and everyone who wants to make something out of his data.**
 
 *Doing data science: Straight talk from the frontline* is a book based on a course *Introduction to Data Science* thought at *Columbia University* in 2012 which is reflected in its structure and content. The book is organized into several topics/lectures, describing various problems when extracting information form data in connection with used methods for various types of data.
 
@@ -19,4 +19,4 @@ The book tries to create general and the broadest possible overview of methods c
 Described topics are written for those who want to practice, not for academics even though it is sometimes impossible to completely avoid formulas. For full understanding of the book, the basic knowledge of programming and at least some basics of algebra and statistics. But also without them, one could expect valuable info about methods used in the field and can be used to gain insight in various problems one could face.
 
 
-**Summary:** No need to be discouraged by repeated use of the buzzword *Big data*. If you can overlook it, you will have a book, that provide comprehensive overview of the data science for novices in the field and valuable insights about various commonly used methods for those with some level of expertise in the field.
+**Summary:** No need to be discouraged by repeated use of the buzzword *Big data*. If you can overlook it, you will have a book that provide comprehensive overview of the data science for novices in the field and valuable insights about various commonly used methods for those with some level of expertise in the field.
