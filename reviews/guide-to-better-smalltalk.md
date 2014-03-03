@@ -7,10 +7,11 @@
 **TL;DR Excelent resource about the roots and core of good OO programming style.**
 
 Why on earth would you want to read an old book about a programming language nobody seems to use today? 
-1) Smalltalk was the ligua franca for OO pioneers when OO and design patterns started. 
-2) Ruby (the language I use the most and like) was inspired by Smalltalk.
-3) With the rise of functional programming right know, we really should look back and see why people switched from LISP to Smalltalk in the first place. Let's not repeat history.
-4) Kent Beck is a recognized authority (e.g. pioneer of test driven development, design patterns...) and of my favorite authors.
+
+1. Smalltalk was the ligua franca for OO pioneers when OO and design patterns started. 
+2. Ruby (the language I use the most and like) was inspired by Smalltalk.
+3. With the rise of functional programming right know, we really should look back and see why people switched from LISP to Smalltalk in the first place. Let's not repeat history.
+4. Kent Beck is a recognized authority (e.g. pioneer of test driven development, design patterns...) and of my favorite authors.
 
 This book is a collection of academic articles published during '90s in various sources, but mostly from The Smalltalk Report and OOPSLA Proceedings.
 
