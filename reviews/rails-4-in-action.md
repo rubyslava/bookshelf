@@ -1,5 +1,5 @@
-[Rails 4 in Action](http://www.amazon.com/Rails-4-Action-Ryan-Bigg/dp/1617291099)
-=================================================================================
+[Rails 4 in Action](http://www.amazon.com/Rails-4-Action-Ryan-Bigg/dp/1617291099?tag=rubyslava-20)
+==================================================================================================
 
 @smolnar
 --------
