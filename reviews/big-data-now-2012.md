@@ -1,4 +1,4 @@
-[Big Data Now](http://www.amazon.com/Big-Data-Now-2012-Edition-ebook/dp/B0097E4EBQ)
+[Big Data Now 2012](http://www.amazon.com/Big-Data-Now-2012-Edition-ebook/dp/B0097E4EBQ)
 ===============================
 
 @smolnar
