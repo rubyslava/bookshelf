@@ -5,7 +5,7 @@ Ak si chceš niektorú knižku požičať vytvor [issue](https://github.com/ruby
 
 2014
 ----
-- Michael Fogus, Chris Houser: [The Joy of Clojure, Second Edition](http://www.manning.com/fogus2/) (@rubyslava) ([review](https://github.com/rubyslava/bookshelf/blob/master/reviews/the-joy-of-clojure.md))
+- Michael Fogus, Chris Houser: [The Joy of Clojure, Second Edition](http://www.manning.com/fogus2/) (@rubyslava) ([recenzia](reviews/the-joy-of-clojure.md))
 
 2013
 ----
@@ -46,7 +46,7 @@ Ak si chceš niektorú knižku požičať vytvor [issue](https://github.com/ruby
 
 2008
 ----
-- Robert C. Martin: [Clean Code: A Handbook of Agile Software Craftsmanship](http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882?tag=rubyslava0f-20) (@jsuchal)
+- Robert C. Martin: [Clean Code: A Handbook of Agile Software Craftsmanship](http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882?tag=rubyslava0f-20) (@jsuchal) ([recenzia](reviews/clean-code.md))
 - Lukáš Jelínek: [Jádro systému Linux](http://knihy.cpress.cz/jadro-systemu-linux.html) (@michalbystricky)
 
 2007
@@ -56,7 +56,7 @@ Ak si chceš niektorú knižku požičať vytvor [issue](https://github.com/ruby
 
 2004
 ----
-- Michael Feathers: [Working Effectively with Legacy Code](http://www.amazon.com/Working-Effectively-Legacy-Michael-Feathers/dp/0131177052?tag=rubyslava0f-20) (@jsuchal)
+- Michael Feathers: [Working Effectively with Legacy Code](http://www.amazon.com/Working-Effectively-Legacy-Michael-Feathers/dp/0131177052?tag=rubyslava0f-20) (@jsuchal) ([recenzia](reviews/working-effectively-with-legacy-code.md))
 - Václav Kadlec: [Agilní programování, Metodiky efektivního vývoje softwaru](http://knihy.cpress.cz/agilni-programovani.html) (@synopsitv)
 
 2003
