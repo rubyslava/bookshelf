@@ -5,7 +5,7 @@ Ak si chceš niektorú knižku požičať vytvor [issue](https://github.com/ruby
 
 2014
 ----
-- Michael Fogus, Chris Houser: [The Joy of Clojure, Second Edition](http://www.manning.com/fogus2/) (@rubyslava)
+- Michael Fogus, Chris Houser: [The Joy of Clojure, Second Edition](http://www.manning.com/fogus2/) (@rubyslava) ([review](https://github.com/rubyslava/bookshelf/blob/master/reviews/the-joy-of-clojure.md))
 
 2013
 ----
