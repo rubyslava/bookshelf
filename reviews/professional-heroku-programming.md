@@ -1,4 +1,4 @@
-[Professional Heroku Programming](http://www.amazon.com/Professional-Heroku-Programming-Wrox-Programmer/dp/1118508998)
+[Professional Heroku Programming](http://www.amazon.com/Professional-Heroku-Programming-Wrox-Programmer/dp/1118508998?tag=rubyslava-20)
 ======================================================================================================================
 
 @matus_tomlein
