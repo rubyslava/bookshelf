@@ -5,8 +5,7 @@
 -----------
 I was a bit confused from this book. The first half of it is definitely useful for anyone who
 has no previous experience with HTTP (apart from using it unconsciously) and APIs. And even if you do 
-have some experience with HTTP and you APIs, you will probably benefit from the book - there is a strong chance that
-you will learn something new that you were not aware before - maybe you ignored existence of HTTP OPTIONS request or
+have some experience with HTTP and APIs development, you will probably benefit from the book - there is a strong chance that you will learn something new that you were not aware of beforehand - maybe you ignored existence of HTTP OPTIONS request or
 did not know about JSON-LD profile... The first half of a book is packed with useful information presented 
 in a clear way and logical order.
 
