@@ -1,4 +1,4 @@
-[Profesional Pert Smith: Professional Website Performance. Optimizing the Front-End and Back-End](http://www.amazon.com/Professional-Website-Performance-Optimizing-Front-End/dp/1118487524?tag=rubyslava-20)
+[Pert Smith: Professional Website Performance: Optimizing the Front-End and Back-End](http://www.amazon.com/Professional-Website-Performance-Optimizing-Front-End/dp/1118487524?tag=rubyslava-20)
 ========================================================================================================
 
 
