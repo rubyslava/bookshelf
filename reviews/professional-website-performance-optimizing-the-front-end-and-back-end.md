@@ -1,7 +1,6 @@
 [Profesional Pert Smith: Professional Website Performance. Optimizing the Front-End and Back-End](http://www.amazon.com/Professional-Website-Performance-Optimizing-Front-End/dp/1118487524?tag=rubyslava-20)
 ========================================================================================================
-Copyright © 2013 by John Wiley & Sons, Inc., Indianapolis, Indiana
-(Review)
+
 
 ### Vladimir Durana - codersvk.tumblr.com
 
