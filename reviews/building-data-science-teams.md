@@ -1,6 +1,6 @@
 # [Building Data Science Teams](http://www.amazon.com/Building-Data-Science-Teams-Patil-ebook/dp/B005O4U3ZE?tag=rubyslava-20)
 
-**@danielharcek**
+**[@danielharcek](https://twitter.com/danielharcek)**
 
 > Measure everything you can, and think about what the data you’ve collected means.
 
@@ -56,7 +56,7 @@ This chapter also contains a essay on how to hire and develop the talent of new 
 LinkedIn approach was to create a full product team which _includes people working in design, web development, engineering, product marketing, and operations. They all understand and work with data, and I consider them all data scientists. We intentionally kept the distinction between different roles in the group blurry._
 This is how data science became a part of building and adding a value to the company. Automation is a crucial component which allows to do the creative work. Another crucial part is to have a culture of prioritization.
 
-> everyone in the group needs to be able to ask about the priority of incoming requests. Everything can’t be urgent.
+> ...everyone in the group needs to be able to ask about the priority of incoming requests. Everything can’t be urgent.
 
 This is often missing, and prioritization does not work well.
 
