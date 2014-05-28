@@ -14,7 +14,7 @@ Ak si chceš niektorú knižku požičať vytvor [issue](https://github.com/ruby
 - Cathy O'Neil, Rachel Schutt: [Doing Data Science](http://www.amazon.com/Doing-Data-Science-Straight-Frontline-ebook/dp/B00FRSNHDC?tag=rubyslava0f-20) (@rubyslava)
 - Chris Kemp: [Professional Heroku Programming](http://www.amazon.com/Professional-Heroku-Programming-Wrox-Programmer/dp/1118508998?tag=rubyslava0f-20) (@rubyslava)
 - Ohad Samet: [Introduction to Online Payments Risk Management](http://www.amazon.com/Introduction-Online-Payments-Management-ebook/dp/B00D9AR4MK/?tag=rubyslava0f-20) (@rubyslava)
-- Richard Cotton: [Learning R](http://www.amazon.com/Learning-R-Richard-Cotton/dp/1449357105?tag=rubyslava0f-20) (@rubyslava)
+- Richard Cotton: [Learning R](http://www.amazon.com/Learning-R-Richard-Cotton/dp/1449357105?tag=rubyslava0f-20) (@rubyslava) ([recenzia](reviews/learning-r.md))
 - Brad Green, Shyam Seshadri: [AngularJS](http://www.amazon.com/AngularJS-Brad-Green/dp/1449344852?tag=rubyslava0f-20) (@kajomarton)
 - Leonard Richardson, Mike Amundsen, Sam Ruby: [RESTful Web APIs](http://www.amazon.com/RESTful-Web-APIs-Leonard-Richardson/dp/1449358063?tag=rubyslava0f-20) (@rubyslava)
 - Sai Srinivas Sriparasa: [JavaScript and JSON Essentials](http://www.packtpub.com/javascript-and-json-essentials/book) (@marekrohon)
