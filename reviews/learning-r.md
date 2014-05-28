@@ -2,6 +2,7 @@
 ============
 
 @borisburdiliak
+---------------
 
 
 **TL;DR I would recommend this book to a beginner in this field, as the book is concise, explains the basics of the R language very well and covers briefly many topics, in which the reader can follow up alone if he's interested and already has gotten overview of this language and its capabilities - by reading this book one can achieve this goal definitely. I give this book 3 stars out of 5.**
