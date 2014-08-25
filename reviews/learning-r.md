@@ -16,3 +16,16 @@ Almost **every paragraph** which introduces new knowledge to the reader is follo
 Other example to spare some place is definitely in the Exploring and **Visualizing part**. The author himself states that learning all three R's plotting systems is **overkill**, because ggplot2 is the most modern one and knowing to work with it is sufficient. In spite of this, this chapter contains examples using all three plotting systems. On the other hand, **no examples** with **either statistics or machine learning** packages are given. At least, the author recommends some sources where these topics are covered. 
 
 To sum up, I would **recommend** this book **to** a **beginner in this field**, as the book is **concise**, explains the **basics** of the R language **very well** and covers briefly many topics, in which the reader can follow up alone if he's interested and already has gotten overview of this language and its capabilities - by reading this book one can achieve this goal definitely. I give this book **3 stars out of 5**.
+
+
+@sevo_jakub
+---------------
+
+
+**TL;DR The book comprehensibly presents basics of R programming and basic toolset for data analysis using R. Great book for everybody trying to start with R.**
+
+The book is divided into two parts. The first part is a comprehensible intro to the R programming with all basic concepts supported by explanations, code examples and exercises at the end of every chapter. The second part of the book explains more advanced topics like error handling, debugging and package making, testing, but it also covers some of the most basic toolset for data analysis such as data loading, transformation, model training and data visualization.
+
+The book presents solid background for further study but more advanced topics and data analysis libraries are not covered in the book and are left for reader’s independent learning. The author however provides several useful links for further reading and other resources. 
+
+The book is intended for novice programmers and data analysts with little or no programming experience and it meets its goals perfectly. More experienced programmers can go through the book much quicker and use it as a tutorial to quickly understand the basics of the language and as a source of references to basic libraries and other resources.
