@@ -1,4 +1,4 @@
-# [Functional Programming in Java: Harnessing the Power of Java 8 Lambda Expressions](http://www.amazon.com/Functional-Programming-Java-Harnessing-Expressions/dp/1937785467?tag=rubyslava-20))
+# [Functional Programming in Java: Harnessing the Power of Java 8 Lambda Expressions](http://www.amazon.com/Functional-Programming-Java-Harnessing-Expressions/dp/1937785467?tag=rubyslava-20)
 
 @Tomas_Haber
 ---------
