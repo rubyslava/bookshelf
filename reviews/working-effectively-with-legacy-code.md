@@ -32,3 +32,15 @@ Ja osobne som sa do čítania niekedy musel nútiť. Môže ale byť technické 
 **Sumár:** Na začiatku som písal, že kniha má veľmi zavádzajúci názov. Ako by som ju teraz nazval ja? *Making Crappy Code Better, One Line at a Time*. 
 Rátajte ale s tým, že čítať by ste ju mali pomaly a pozorne. A to, že sa treba potrápiť s príkladmi v C++ je už len malá cena, ktorú 
 sa určite oplatí zaplatiť.
+
+@dmacjam
+--------
+
+Aj tí najdisciplinovanejší občas, napríklad pod tlakom deadlinu, porušia správne princípy OOP programovania, kód degraduje časom alebo sa jednoducho dostaneme k “nepekným” zdrojákom od niekoho iného. Toto všetko sú príklady legacy kódu - je to kód náročný na pochopenie, zmenu a podľa autora knihy, jednoducho, kód bez testov. Tak ako efektívne pracovať s takýmto kódom, a robiť bezpečné zmeny?
+
+Keďže pracujeme s neotestovaným kódom, musíme byt veľmi opatrní. Hlavnou ideou je, že nemôžeme efektívne pracovať s kódom pokiaľ nie je pokrytý testami - cieľom sú najmä rýchle UNIT testy. Náš čas je však cenný a dôležité je preto určiť, čo a v akej miere treba pokryť testami, aby naša plánovaná zmena bola bezpečná. Problémom pri testoch(v staticky typovaných jazykoch) tiež môže byť veľké množstvo závislostí, pretože pri testovaní je potrebné vytvorenie množstva ďalších spolupracujúcich objektov. Tie často nemožno vytvoriť alebo je ich vytvorenie príliš drahé(spojenie s db, sieťové pripojenie,..). Preto nás autor sprevádza príkladmi legacy kódu z praxe, na ktorom sú vysvetlené techniky, ako rozbiť a minimalizovať závislosti v kóde. 
+
+Každá kapitola je ako keby otázkou vo FAQ, teda dá sa čítať samostatne a je odpoveďou na špecifický problém. V záverečnej časti knihy je samostatný zoznam dôležitých dependency-breaking techník na ktoré sa autor často v texte odkazuje. Tieto techniky sú vysvetlené na konkrétnych príkladoch a doplnené všeobecnými postupmi.  
+
+Celkovo je to kniha pre tých, ktorí sa musia rýchlo zorientovať v novom projekte, programátorov pracujúcich na údržbe softvéru a v neposlednom rade pre každého so záujmom postupne zlepšovať kvalitu svojho či kolegovho kódu.
+
