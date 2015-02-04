@@ -34,6 +34,7 @@ Ak si chceš niektorú knižku požičať vytvor [issue](https://github.com/ruby
 ----
 - DJ Patil: [Building Data Science Teams](http://www.amazon.com/Building-Data-Science-Teams-ebook/dp/B005O4U3ZE?tag=rubyslava0f-20) (@rubyslava)
 - Walter Isaacson: [Steve Jobs](http://www.martinus.sk/?uItem=111218) (@michalbystricky)
+- Gayle Laakmann McDowell: [Cracking the Coding Interview: 150 Programming Questions and Solutions](http://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/098478280X) (@adamliesko)
 
 2010
 ----
