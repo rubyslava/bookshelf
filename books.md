@@ -7,7 +7,7 @@ Ak si chceš niektorú knižku požičať vytvor [issue](https://github.com/ruby
 ----
 - Tom Barker: [High Performance Responsive Design: Building Faster Sites Across Devices](http://www.amazon.com/High-Performance-Responsive-Design-Building/dp/1491949988) (@rubyslava) ([recenzia] (reviews/high-performance-responsive-design.md))
 - Marijn Haverbeke: [Eloquent JavaScript: A Modern Introduction to Programming](http://www.amazon.com/Eloquent-JavaScript-Modern-Introduction-Programming/dp/1593275846) (@rubyslava)
-- Noel Rappin: [Rails 4 Test Prescriptions: Build a Healthy Codebase](https://pragprog.com/book/nrtest2/rails-4-test-prescriptions) (@rubyslava)
+- Noel Rappin: [Rails 4 Test Prescriptions: Build a Healthy Codebase](https://pragprog.com/book/nrtest2/rails-4-test-prescriptions) (@rubyslava) ([review](reviews/rails-4-test-prescriptions.md))
 - Michael Fogus, Chris Houser: [The Joy of Clojure, Second Edition](http://www.manning.com/fogus2/) (@rubyslava) ([recenzia](reviews/the-joy-of-clojure.md))
 
 2013
