@@ -1,3 +1,8 @@
-TL;DR A very high level overview of web page performance
+# [High Performance Responsive Design](http://www.amazon.com/High-Performance-Responsive-Design-Building/dp/1491949988?tag=rubyslava0f-20)
+===================================
+
+## @tkramar
+
+**TL;DR A very high level overview of web page performance**
 
 Despite the name, the book is not so much about responsive design in the traditional sense (via media queries), but instead focuses on implementing "responsiveness" on the server-side. The book starts with author's musings on why server-side responsiveness is the way to go and offers an analysis of page load performance of various popular websites. Some very good points are raised here and I was surprised to see that most responsive pages are significantly more expensive byte-wise when rendered on mobile as when rendered on desktop. For me, this was the most valuable part of the book, along with the section on measuring and validating page load time in CI. The rest of the book is obviously intended for absolute beginners and provides gentle introduction to various parts of the process that begins with typing the URL in the browser and ends with an interactive website (such as establishing TCP connection, HTTP protocol, caching, etc.). Note that all of this just scratches the surface and provides a reference to where to look next. In the final part of the book some responsive (client-side!) frameworks (bootstrap et al.) are compared and author presents his server-side responsive solution, but he doesn't offer much explanation or discussion and I found his design very weird. Overally, the book is very short (152 pages) and is littered with pointless figures and charts. On the plus side, it reads like a breeze. I would not recommend this book, unless you are an absolute beginner and just want to get a high-level overview of web page performance.
