@@ -1,5 +1,4 @@
 # [High Performance Responsive Design](http://www.amazon.com/High-Performance-Responsive-Design-Building/dp/1491949988?tag=rubyslava0f-20)
-===================================
 
 ## @tkramar
 
