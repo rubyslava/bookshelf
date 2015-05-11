@@ -3,6 +3,12 @@ Knihy v knižnici Rubyslava
 
 Ak si chceš niektorú knižku požičať vytvor [issue](https://github.com/rubyslava/bookshelf/issues) s jej menom.
 
+2015
+----
+- Sandy Ryza, Uri Laserson, Sean Owen, Josh Wills: [Advanced Analytics with Spark: Patterns for Learning from Data at Scale](http://www.amazon.com/Advanced-Analytics-Spark-Patterns-Learning/dp/1491912766/) (@rubyslava)
+- Sam Newman: [Building Microservices](http://www.amazon.com/Building-Microservices-Sam-Newman/dp/1491950358) (@rubyslava)
+- Stephen A. Thomas: [Data Visualization with JavaScript](http://www.amazon.com/Data-Visualization-JavaScript-Stephen-Thomas/dp/1593276052/) (@rubyslava)
+
 2014
 ----
 - Tom Barker: [High Performance Responsive Design: Building Faster Sites Across Devices](http://www.amazon.com/High-Performance-Responsive-Design-Building/dp/1491949988) (@rubyslava) ([recenzia] (reviews/high-performance-responsive-design.md))
