@@ -7,7 +7,7 @@ Ak si chceš niektorú knižku požičať vytvor [issue](https://github.com/ruby
 ----
 - Sandy Ryza, Uri Laserson, Sean Owen, Josh Wills: [Advanced Analytics with Spark: Patterns for Learning from Data at Scale](http://www.amazon.com/Advanced-Analytics-Spark-Patterns-Learning/dp/1491912766/) (@rubyslava)
 - Sam Newman: [Building Microservices](http://www.amazon.com/Building-Microservices-Sam-Newman/dp/1491950358) (@rubyslava)
-- Stephen A. Thomas: [Data Visualization with JavaScript](http://www.amazon.com/Data-Visualization-JavaScript-Stephen-Thomas/dp/1593276052/) (@rubyslava)
+- Stephen A. Thomas: [Data Visualization with JavaScript](http://www.amazon.com/Data-Visualization-JavaScript-Stephen-Thomas/dp/1593276052/) (@rubyslava) ([recenzia] (reviews/data-visualisation-with-javascript.md))
 
 2014
 ----
