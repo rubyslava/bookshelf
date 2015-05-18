@@ -37,58 +37,58 @@ Ak si chceš niektorú knižku požičať vytvor [issue](https://github.com/ruby
 - [Big Data Now: 2012 Edition](http://www.amazon.com/Big-Data-Now-Edition-ebook/dp/B0097E4EBQ/?tag=rubyslava0f-20) (@rubyslava)
 - Chad Fowler: [Rails Recipes: Rails 3 Edition](http://www.amazon.com/Rails-Recipes-3-Chad-Fowler/dp/1934356778/?tag=rubyslava0f-20) (@rubyslava)
 - Bruce Williams, John Athayde: [The Rails View: Create a Beautiful and Maintainable User Experience](http://www.amazon.com/Rails-View-Beautiful-Maintainable-Experience/dp/1934356875/?tag=rubyslava0f-20) (@rubyslava)
-- Radomír Čížek: [Investujte s českými experty](http://www.martinus.sk/?uItem=128070) (@TODO)
+- Radomír Čížek: [Investujte s českými experty](http://www.martinus.sk/?uItem=128070) (@rubyslava)
 
 2011
 ----
 - DJ Patil: [Building Data Science Teams](http://www.amazon.com/Building-Data-Science-Teams-ebook/dp/B005O4U3ZE?tag=rubyslava0f-20) (@rubyslava)
 - Walter Isaacson: [Steve Jobs](http://www.martinus.sk/?uItem=111218) (@michalbystricky)
 - Gayle Laakmann McDowell: [Cracking the Coding Interview: 150 Programming Questions and Solutions](http://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/098478280X) (@adamliesko)
-- Curtis M. Faith [Cesta želvy](http://www.martinus.sk/?uItem=103984) (@TODO)
-- Hromkovič, Juraj: [Theoretical computer science](http://www.springer.com/us/book/9783540140153) (@TODO)
+- Curtis M. Faith [Cesta želvy](http://www.martinus.sk/?uItem=103984) (@rubyslava)
+- Hromkovič, Juraj: [Theoretical computer science](http://www.springer.com/us/book/9783540140153) (@rubyslava)
 
 2010
 ----
 - Kenneth McDonald, Daryl Harms: [Začínáme programovat v jazyce Python](http://knihy.cpress.cz/zaciname-programovat-v-jazyce-python-d2.html) (@synopsitv)
-- Jeff Jarvis: [Čo by urobil Google?](http://www.martinus.sk/?uItem=96871) (@TODO)
+- Jeff Jarvis: [Čo by urobil Google?](http://www.martinus.sk/?uItem=96871) (@rubyslava)
 
 2009
 ----
 - Baron Schwartz, Peter Zaitsev, Vadim Tkachenko, Jeremy D. Zawodny, Arjen Lentz a Derek J. Balling: [MySQL profesionálně - Optimalizace pro vysoký výkon](http://www.zonerpress.cz/mysql-profesionalne-optimalizace-pro-vysoky-vykon) (@synopsitv)
 - Steve Freeman, Nat Pryce: [Growing Object-Oriented Software, Guided by Tests](http://www.amazon.com/Growing-Object-Oriented-Software-Guided-Tests/dp/0321503627?tag=rubyslava0f-20) (@synopsitv)
-- David Sklansky, Ed Miller: [No limit Hold'em Poker](http://www.martinus.sk/?uItem=72142) (@TODO)
-- Robert C. Martin: [Čistý kód](http://www.martinus.sk/?uItem=73286) (@TODO)
+- David Sklansky, Ed Miller: [No limit Hold'em Poker](http://www.martinus.sk/?uItem=72142) (@rubyslava)
+- Robert C. Martin: [Čistý kód](http://www.martinus.sk/?uItem=73286) (@rubyslava)
 
 2008
 ----
 - Robert C. Martin: [Clean Code: A Handbook of Agile Software Craftsmanship](http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882?tag=rubyslava0f-20) (@jsuchal) ([recenzia](reviews/clean-code.md))
 - Lukáš Jelínek: [Jádro systému Linux](http://knihy.cpress.cz/jadro-systemu-linux.html) (@michalbystricky)
-- Alexander Elder: [Vstupte do me obchodny mistnosti](http://www.martinus.sk/?uItem=46340) (@TODO)
-- Matthew MacDonald, Mario Szpuszta: [ASP.NET 3.5 a C# 2008](http://www.martinus.sk/?uItem=55917) (@TODO)
+- Alexander Elder: [Vstupte do me obchodny mistnosti](http://www.martinus.sk/?uItem=46340) (@rubyslava)
+- Matthew MacDonald, Mario Szpuszta: [ASP.NET 3.5 a C# 2008](http://www.martinus.sk/?uItem=55917) (@rubyslava)
 
 2007
 ----
 - Steve Krug: [Webdesign: Nenuťte uživatele přemýšlet! (2nd edition)](http://www.martinus.sk/?uItem=31983) (@teo_sk)
 - Steve Wozniak, Gina Smith: [iWoz](http://www.martinus.sk/?uItem=43968) (@michalbystricky)
-- Jeff Kent: [Visual C# 2005](http://www.martinus.sk/?uItem=37029) (@TODO)
-- Miloslav Ponkrác: [PHP a MySQL bez predchozich znalosti](http://www.martinus.sk/?uItem=41559) (@TODO)
-- Steven Holzner: [Začínáme programovat v Ruby on Rails](http://www.martinus.sk/?uItem=37035) (@TODO)
-- Ivan Sekaj: [Evolučné výpočty a ich využitie v praxi](http://www.martinus.sk/?uItem=22653) (@TODO)
+- Jeff Kent: [Visual C# 2005](http://www.martinus.sk/?uItem=37029) (@rubyslava)
+- Miloslav Ponkrác: [PHP a MySQL bez predchozich znalosti](http://www.martinus.sk/?uItem=41559) (@rubyslava)
+- Steven Holzner: [Začínáme programovat v Ruby on Rails](http://www.martinus.sk/?uItem=37035) (@rubyslava)
+- Ivan Sekaj: [Evolučné výpočty a ich využitie v praxi](http://www.martinus.sk/?uItem=22653) (@rubyslava)
 
 2006
 ----
-- Luboslav Lacko: [ASP.NET a ADO.NET - hotova reseni](http://www.martinus.sk/?uItem=29518) (@TODO)
-- Tom Miller: [Programujeme 3D hry v jazyce C#](http://www.martinus.sk/?uItem=38471) (@TODO)
+- Luboslav Lacko: [ASP.NET a ADO.NET - hotova reseni](http://www.martinus.sk/?uItem=29518) (@rubyslava)
+- Tom Miller: [Programujeme 3D hry v jazyce C#](http://www.martinus.sk/?uItem=38471) (@rubyslava)
 
 2005
 ----
-- Martin Pokorný: [PHP nejen pro začátečníky](http://www.martinus.sk/?uItem=20971) (@TODO) 
+- Martin Pokorný: [PHP nejen pro začátečníky](http://www.martinus.sk/?uItem=20971) (@rubyslava) 
 
 2004
 ----
 - Michael Feathers: [Working Effectively with Legacy Code](http://www.amazon.com/Working-Effectively-Legacy-Michael-Feathers/dp/0131177052?tag=rubyslava0f-20) (@jsuchal) ([recenzia](reviews/working-effectively-with-legacy-code.md))
 - Václav Kadlec: [Agilní programování, Metodiky efektivního vývoje softwaru](http://knihy.cpress.cz/agilni-programovani.html) (@synopsitv)
-- Martin Domes: [Tvorba internetových stránek pomocí HTML, CSS a JavaScriptu](http://www.martinus.sk/?uItem=20972) (@TODO)
+- Martin Domes: [Tvorba internetových stránek pomocí HTML, CSS a JavaScriptu](http://www.martinus.sk/?uItem=20972) (@rubyslava)
 
 2003
 ----
