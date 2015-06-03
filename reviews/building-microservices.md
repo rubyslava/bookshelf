@@ -1,10 +1,6 @@
-Building Microservices](http://www.amazon.com/Building-Microservices-Sam-Newman/dp/1491950358?tag=rubyslava-20)
-=========================
+# [Building Microservices:Designing fine-grained systems](http://www.amazon.com/Building-Microservices-Sam-Newman/dp/1491950358?tag=rubyslava-20)
 
-######Designing fine-grained systems
-
-@tomaj
-------
+## @tomaj
 
 **TL;DR I have to recommend this book for everyone who is interested in this microservices "pattern". If you are consider to split monolithic application it is a must read.**
 
