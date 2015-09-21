@@ -5,6 +5,8 @@ Ak si chceš niektorú knižku požičať vytvor [issue](https://github.com/ruby
 
 2015
 ----
+- Karl Matthias, Sean P. Kane: [Docker: Up & Running](http://www.amazon.com/Docker-Up-Running-Karl-Matthias/dp/1491917571) (@rubyslava)
+-  Lorin Hochstein: [Ansible: Up and Running](http://www.amazon.com/Ansible-Up-Running-Lorin-Hochstein/dp/1491915323) (@rubyslava)
 - Sandy Ryza, Uri Laserson, Sean Owen, Josh Wills: [Advanced Analytics with Spark: Patterns for Learning from Data at Scale](http://www.amazon.com/Advanced-Analytics-Spark-Patterns-Learning/dp/1491912766/) (@rubyslava)
 - Sam Newman: [Building Microservices](http://www.amazon.com/Building-Microservices-Sam-Newman/dp/1491950358) (@rubyslava)
 - Stephen A. Thomas: [Data Visualization with JavaScript](http://www.amazon.com/Data-Visualization-JavaScript-Stephen-Thomas/dp/1593276052/) (@rubyslava) ([recenzia] (reviews/data-visualisation-with-javascript.md))
