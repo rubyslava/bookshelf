@@ -88,6 +88,7 @@ Ak si chceš niektorú knižku požičať vytvor [issue](https://github.com/ruby
 
 2004
 ----
+- David Kushner - [Masters of Doom](http://www.amazon.com/Masters-Doom-Created-Transformed-Culture/dp/0812972155) (@srigi)
 - Michael Feathers: [Working Effectively with Legacy Code](http://www.amazon.com/Working-Effectively-Legacy-Michael-Feathers/dp/0131177052?tag=rubyslava0f-20) (@jsuchal) ([recenzia](reviews/working-effectively-with-legacy-code.md))
 - Václav Kadlec: [Agilní programování, Metodiky efektivního vývoje softwaru](http://knihy.cpress.cz/agilni-programovani.html) (@synopsitv)
 - Martin Domes: [Tvorba internetových stránek pomocí HTML, CSS a JavaScriptu](http://www.martinus.sk/?uItem=20972) (@rubyslava)
