@@ -17,6 +17,9 @@ Ak si chceš niektorú knižku požičať vytvor [issue](https://github.com/ruby
 - Marijn Haverbeke: [Eloquent JavaScript: A Modern Introduction to Programming](http://www.amazon.com/Eloquent-JavaScript-Modern-Introduction-Programming/dp/1593275846) (@rubyslava)
 - Noel Rappin: [Rails 4 Test Prescriptions: Build a Healthy Codebase](https://pragprog.com/book/nrtest2/rails-4-test-prescriptions) (@rubyslava) ([review](reviews/rails-4-test-prescriptions.md))
 - Michael Fogus, Chris Houser: [The Joy of Clojure, Second Edition](http://www.manning.com/fogus2/) (@rubyslava) ([recenzia](reviews/the-joy-of-clojure.md))
+- Scott Meyers: [Effective Modern C++: 42 Specific Ways to Improve Your Use of C++11 and C++14](http://shop.oreilly.com/product/0636920033707.do) (@miroslavsabo)
+- Boris Schäling: [The Boost C++ Libraries](https://www.amazon.com/Boost-C-Libraries-Boris-Schäling/dp/1937434362) (@miroslavsabo)
+
 
 2013
 ----
@@ -29,6 +32,7 @@ Ak si chceš niektorú knižku požičať vytvor [issue](https://github.com/ruby
 - Brad Green, Shyam Seshadri: [AngularJS](http://www.amazon.com/AngularJS-Brad-Green/dp/1449344852?tag=rubyslava0f-20) (@kajomarton)
 - Leonard Richardson, Mike Amundsen, Sam Ruby: [RESTful Web APIs](http://www.amazon.com/RESTful-Web-APIs-Leonard-Richardson/dp/1449358063?tag=rubyslava0f-20) (@rubyslava)
 - Sai Srinivas Sriparasa: [JavaScript and JSON Essentials](http://www.packtpub.com/javascript-and-json-essentials/book) (@marekrohon)
+- Stephen Prata: [Mistrovství v C++](http://www.martinus.sk/?uItem=160870) (@miroslavsabo)
 
 
 2012
@@ -81,6 +85,7 @@ Ak si chceš niektorú knižku požičať vytvor [issue](https://github.com/ruby
 ----
 - Luboslav Lacko: [ASP.NET a ADO.NET - hotova reseni](http://www.martinus.sk/?uItem=29518) (@rubyslava)
 - Tom Miller: [Programujeme 3D hry v jazyce C#](http://www.martinus.sk/?uItem=38471) (@rubyslava)
+- Brian W. Kernighan, Dennis M. Ritchie: [Programovací jazyk C](http://www.martinus.sk/?uItem=29996) (@miroslavsabo)
 
 2005
 ----
