@@ -52,6 +52,7 @@ Ak si chceš niektorú knižku požičať vytvor [issue](https://github.com/ruby
 - Gayle Laakmann McDowell: [Cracking the Coding Interview: 150 Programming Questions and Solutions](http://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/098478280X) (@adamliesko)
 - Curtis M. Faith [Cesta želvy](http://www.martinus.sk/?uItem=103984) (@rubyslava)
 - Hromkovič, Juraj: [Theoretical computer science](http://www.springer.com/us/book/9783540140153) (@rubyslava)
+- Bruce A. Tate: [Seven Languages in Seven Weeks](https://pragprog.com/book/btlang/seven-languages-in-seven-weeks) (@eronisko)
 
 2010
 ----
@@ -64,6 +65,7 @@ Ak si chceš niektorú knižku požičať vytvor [issue](https://github.com/ruby
 - Steve Freeman, Nat Pryce: [Growing Object-Oriented Software, Guided by Tests](http://www.amazon.com/Growing-Object-Oriented-Software-Guided-Tests/dp/0321503627?tag=rubyslava0f-20) (@synopsitv)
 - David Sklansky, Ed Miller: [No limit Hold'em Poker](http://www.martinus.sk/?uItem=72142) (@rubyslava)
 - Robert C. Martin: [Čistý kód](http://www.martinus.sk/?uItem=73286) (@rubyslava)
+- Rachel Davies, Liz Sedley: [Agile Coaching](https://pragprog.com/book/sdcoach/agile-coaching) (@eronisko)
 
 2008
 ----
@@ -80,6 +82,7 @@ Ak si chceš niektorú knižku požičať vytvor [issue](https://github.com/ruby
 - Miloslav Ponkrác: [PHP a MySQL bez predchozich znalosti](http://www.martinus.sk/?uItem=41559) (@rubyslava)
 - Steven Holzner: [Začínáme programovat v Ruby on Rails](http://www.martinus.sk/?uItem=37035) (@rubyslava)
 - Ivan Sekaj: [Evolučné výpočty a ich využitie v praxi](http://www.martinus.sk/?uItem=22653) (@rubyslava)
+- James Shore & Shane Warden: [The Art of Agile Development](http://shop.oreilly.com/product/9780596527679.do) (@eronisko)
 
 2006
 ----
@@ -105,6 +108,10 @@ Ak si chceš niektorú knižku požičať vytvor [issue](https://github.com/ruby
 2002
 ----
 - Kent Beck: [Extrémní programování](http://www.martinus.sk/?uItem=11115) (@synopsitv)
+
+2000
+----
+- Andrew Hunt, David Thomas: [The Pragmatic Programmer](https://pragprog.com/book/tpp/the-pragmatic-programmer) (@eronisko)
 
 
 Nenašiel si tu čo si hľadal? Vytvor [issue](https://github.com/rubyslava/bookshelf/issues) alebo nám napíš na hello@rubyslava.sk
